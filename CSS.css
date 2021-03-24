@@ -1,0 +1,7 @@
+#maintable {border-collapse:collapse;}
+
+#maintable tr:hover {background-color: #FFFFAA;}
+#maintable tr.selected td {
+        background: none repeat scroll 0 0 #FFCF8B;
+        color: #000000;
+    }
