@@ -2,10 +2,8 @@
   border: double;
   border-color: black;
   background-color: black;
- 
-}
-.head{
-	color: green;
+  max-width:100px;
+  padding-left:100px;
 }
 
 .dropbtn {

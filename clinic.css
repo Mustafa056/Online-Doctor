@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+  padding: 25px;
+  font-family: sans-serif;
+  background: url(../pic/1.jpg) no-repeat;
+  background-size: cover;
+
+  }
+.Registration-box{
+	
+	
+	padding:30px;
+	width:600px;
+	height:600px;
+	background:white;
+	position:relative;
+	top:0;
+	left:100px;
+	right:110px;
+	margin:auto;
+}
+
